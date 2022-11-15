@@ -1,0 +1,12 @@
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\bin\Debug\net6.0\ChatApp.Common.deps.json
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\bin\Debug\net6.0\ChatApp.Common.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\bin\Debug\net6.0\ChatApp.Common.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ChatApp.Common.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ChatApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ChatApp.Common.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ChatApp.Common.AssemblyInfo.cs
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ChatApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ChatApp.Common.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\refint\ChatApp.Common.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ChatApp.Common.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Common\obj\Debug\net6.0\ref\ChatApp.Common.dll

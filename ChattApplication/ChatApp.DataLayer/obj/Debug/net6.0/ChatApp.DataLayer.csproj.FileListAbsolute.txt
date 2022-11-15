@@ -1,0 +1,15 @@
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\bin\Debug\net6.0\ChatApp.DataLayer.deps.json
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\bin\Debug\net6.0\ChatApp.DataLayer.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\bin\Debug\net6.0\ChatApp.DataLayer.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\bin\Debug\net6.0\ChatApp.Common.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\bin\Debug\net6.0\ChatApp.Common.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.AssemblyInfo.cs
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.csproj.CopyComplete
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\refint\ChatApp.DataLayer.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ChatApp.DataLayer.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.DataLayer\obj\Debug\net6.0\ref\ChatApp.DataLayer.dll

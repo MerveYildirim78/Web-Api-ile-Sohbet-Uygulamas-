@@ -1,0 +1,17 @@
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\bin\Debug\net6.0\ChatApp.Business.deps.json
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\bin\Debug\net6.0\ChatApp.Business.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\bin\Debug\net6.0\ChatApp.Business.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\bin\Debug\net6.0\ChatApp.Common.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\bin\Debug\net6.0\ChatApp.DataLayer.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\bin\Debug\net6.0\ChatApp.Common.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\bin\Debug\net6.0\ChatApp.DataLayer.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.AssemblyInfo.cs
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.csproj.CopyComplete
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\refint\ChatApp.Business.dll
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ChatApp.Business.pdb
+C:\Users\merve\source\repos\ChattApplication\ChatApp.Business\obj\Debug\net6.0\ref\ChatApp.Business.dll

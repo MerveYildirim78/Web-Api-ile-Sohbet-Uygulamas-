@@ -1,0 +1,60 @@
+﻿@page "/users"
+
+
+<PageTitle>Weather forecast</PageTitle>
+
+<h1>Kullanıcılar</h1>
+
+
+@if (data== null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in data)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+        List<UserDTO> data;
+
+    protected override async Task OnInitializedAsync()
+    {
+
+
+            data = await _http.GetFromJsonAsync<List<UserDTO>>("/User/GetUsers");
+
+    }
+
+    public class User1
+    {
+        public int UserId { get; set; }
+        public string Name { get; set; }
+        public string Surname { get; set; } 
+        public string Username { get; set; }
+        public string Email { get; set; } 
+        public string Password { get; set; }
+        public string ProfilePhoto { get; set; }
+        public DateTime CreateDate { get; set; }
+        public bool IsActive { get; set; }
+        public bool IsAdmin { get; set; }
+    }
+}
